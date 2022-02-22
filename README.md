@@ -1,2 +1,0 @@
-# Student-work
-Python functions
